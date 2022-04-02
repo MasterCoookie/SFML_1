@@ -1,0 +1,9 @@
+*.dll
+*.vcxproj.*
+x64/
+Release
+Debug
+External
+*.zip
+x64
+x86
